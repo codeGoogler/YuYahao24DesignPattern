@@ -1,5 +1,6 @@
 #### 前言
-最近一直在Java方向奋斗，今天抽空开始学习Java的设计模式了。计划有时间就去学习，你这么有时间，还不来一起上车吗？
+最近一直在Java方向奋斗[**终于，我还是下决心学Java后台了**](http://mp.weixin.qq.com/s?__biz=MzI3OTU0MzI4MQ==&mid=2247486120&idx=1&sn=db5f94ad8554bd2739d962b7724033f3&chksm=eb476636dc30ef2072bacb21fa532eae3c9ab9315fac62becfd052ad990857f7d400e6584e72&scene=21#wechat_redirect)，今天抽空开始学习Java的设计模式了
+。计划有时间就去学习，你这么有时间，还不来一起上车吗？
 
 之所以要学习Java模式，是因为面试的时候有时间回答的不是太完整，面试过后才想起来如何回答。所以，我说了了： **只有总结才是王道，只有总结才能提高**
 
@@ -64,8 +65,8 @@
 ![ ](https://upload-images.jianshu.io/upload_images/4614633-de439665dfc976e4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![ ](https://upload-images.jianshu.io/upload_images/4614633-df2893b69638d71b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-测试类：
-![ ](https://upload-images.jianshu.io/upload_images/4614633-32aa3ba1badb887e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![ 测试类：](https://upload-images.jianshu.io/upload_images/4614633-32aa3ba1badb887e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![](https://upload-images.jianshu.io/upload_images/4614633-90f7e045079acaac.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -74,6 +75,7 @@
 
 > 项目地址：
 >
+>https://github.com/androidstarjack/YuYahao24DesignPattern
 
 ### 总结
 学习一个知识点要知道**是什么，为什么,怎么办，**要知其然。也要知其所以然！
